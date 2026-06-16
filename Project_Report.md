@@ -43,3 +43,4 @@ The project successfully demonstrates the integration of search algorithms, cons
 
 13. References
 • Stuart Russell & Peter Norvig – Artificial Intelligence: A Modern Approach • Computational Foundations for Artificial Intelligence Course Material • Python Documentation
+• Stuart Russell & Peter Norvig – Artificial Intelligence: A Modern Approach • Computational Foundations for Artificial Intelligence Course Material • Python Documentation
